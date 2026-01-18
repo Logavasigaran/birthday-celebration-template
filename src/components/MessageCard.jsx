@@ -14,7 +14,7 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
   const recipientName = "Shubha Sri ";
   const senderName = "Logavasigaran";
-  const message = Happiest birthday shubhaaa..;
+  const message = `Happiest birthday shubhaaa.. `;
   
 
 Your personalized birthday message goes here.
