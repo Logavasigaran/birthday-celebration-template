@@ -14,7 +14,21 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
   const recipientName = "Shubha Sri ";
   const senderName = "Logavasigaran";
-  const message = `Happiest birthday shubhaaa.. `;
+  const message = `Shubha Sri…
+Happy Birthday.
+May this year bring you peace in your heart, clarity in your mind, and success in everything you touch.
+You deserve happiness that stays and moments that feel soft and real.
+I wish you strength for the days that feel heavy,
+and laughter for the days that feel light.
+I wish you growth, confidence, and a life that never limits you.
+You are special  not because you try,
+but because you simply are.
+Thank you for existing in my world.
+Thank you for the memories, the talks, the silence, the understanding.
+Love you, Shubha Sri.
+Stay blessed, stay grounded, stay you.
+And remember  the universe always protects good souls like yours.
+Love you a lot shubhaa thangoo 🌹💕..  `;
 
   // Handle page transitions
   useEffect(() => {
