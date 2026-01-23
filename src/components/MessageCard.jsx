@@ -28,7 +28,7 @@ Love you, Shubha Sri.
 Stay blessed, stay grounded, and stay true to yourself.
 And remember: the universe always protects gentle souls like yours.
 With love,
-Yours, Logavasigaran 🌹💕 ;
+Yours, Logavasigaran 🌹💕;
 
   // Handle page transitions
   useEffect(() => {
