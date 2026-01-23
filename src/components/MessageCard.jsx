@@ -14,8 +14,9 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
   const recipientName = "Shubha Sri ";
   const senderName = "Logavasigaran";
-  const message = `Shubha Sri,
-Happy Birthday.
+  const message = 'Vasigaran..';
+  const message = `Shubha Sri 
+Happy Birthday
 May this year bring peace to your heart, clarity to your mind, and success to everything you touch.
 You deserve happiness that stays, and moments that feel soft, real, and kind.
 I wish you strength for the days that feel heavy,
