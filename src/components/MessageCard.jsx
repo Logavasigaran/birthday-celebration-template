@@ -15,8 +15,7 @@ function MessageCard({ isActive }) {
   const recipientName = "Shubha Sri ";
   const senderName = "Logavasigaran";
   const message = `Shubha Sri,
-Happy Birthday.
-;
+Happy Birthday'.;
 
   // Handle page transitions
   useEffect(() => {
